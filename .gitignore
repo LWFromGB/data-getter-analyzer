@@ -18,7 +18,7 @@ logs/
 .DS_Store
 Thumbs.db
 
-# 文档（参赛用，不上传）
+# 文档
 docs/
 
 # 虚拟环境
