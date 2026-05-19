@@ -1,0 +1,26 @@
+# 打包输出
+dist/
+build/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 日志文件
+logs/
+
+# IDE
+.vscode/
+.idea/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 文档（参赛用，不上传）
+docs/
+
+# 虚拟环境
+venv/
+.env
